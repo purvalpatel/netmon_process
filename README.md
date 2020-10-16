@@ -18,7 +18,10 @@ netfilter.sh total
 Logs:
 /var/log/net_usage/
 net_usage.log - every process logs stored in this file.
+
 net_details - bandwidth during filter logs are stored in this file.
+
 final_details.log - service restart time logs stored in this file.
+
 total_usage.txt - total-usage till date stored in this file.
 

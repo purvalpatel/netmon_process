@@ -7,7 +7,7 @@ Dependencies:
 apt-get install nethogs screen
 
 How to start:
-network/netfilter.sh Filter
+/root/network/netfilter.sh Filter
 
-
-
+restart:
+/root/network/netfilter.sh restart
